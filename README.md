@@ -7,7 +7,6 @@
 <p align="center">
   <!-- Skills / Tech Badges -->
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 </p>
