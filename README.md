@@ -1,9 +1,11 @@
-<p align="center">👋 Hi there!</p>
-⚡ Electrician by trade
-🎓 Self-taught programmer | 💻 Curious about how the web works
-💻 HTML & CSS enthusiast
-Currently 🌱 Learning JavaScript
-🌱 Always learning and coding
+<p style="text-align=:center;">👋 Hi there!</p>
+<p style="text-align=:center;">⚡ Electrician by trade</p>
+<p style="text-align=:center;">🎓 Self-taught programmer | 💻 Curious about how the web works</p>
+<p style="text-align=:center;">💻 HTML & CSS enthusiast</p>
+<p style="text-align=:center;">⚡ Electrician by trade</p>
+<p style="text-align=:center;">Currently 🌱 Learning JavaScript</p>
+<p style="text-align=:center;">⚡ Electrician by trade</p>
+<p style="text-align=:center;">🌱 Always learning and coding</p>
 
 
 
