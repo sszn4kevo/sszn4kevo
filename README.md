@@ -1,6 +1,7 @@
 <p align="center">
   <!-- Banner GIF -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cool Banner" width="800"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Badge" width="150"/>
+
 </p>
 
 <p align="center">
