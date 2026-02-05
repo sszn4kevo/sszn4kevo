@@ -1,5 +1,6 @@
-## Hi  there 👋
+👋 Hi there!
 
+🎓 Self-taught programmer | 💻 HTML & CSS enthusiast | 🌱 Learning JavaScript
 <!--
 **sszn4kevo/sszn4kevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
