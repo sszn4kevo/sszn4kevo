@@ -1,11 +1,7 @@
 👋 Hi there!
-
 🎓 Self-taught programmer 
-
 💻 HTML & CSS enthusiast 
-
 Currently 🌱 Learning JavaScript
-
 ⚡ Electrician by trade | 💻 Curious about how the web works | 🌱 Always learning and coding
 
 <!--
