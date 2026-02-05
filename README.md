@@ -1,8 +1,10 @@
-![Image](https://github.com/user-attachments/assets/934ed26e-26f9-4286-96f9-0d271d177a1a)
-* <p align="center";color="green">👋 Hi there!</p>
+<div> 
+  <p align="center";color="green">👋 Hi there!</p>
 ** <p align="center">⚡ Electrician by trade</p> **
+<img width="300" height="533" alt="Image" src="https://github.com/user-attachments/assets/c938ba26-57a1-4d95-9e16-2d89adc81a3d" />
 <p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
 <p align="center">Currently 🌱 Learning JavaScript</p>
+</div>
 
 
 
