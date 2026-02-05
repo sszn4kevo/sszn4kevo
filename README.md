@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/0a83b428-ffab-40c1-971a-25b54b986c14)
+![Image](https://github.com/user-attachments/assets/934ed26e-26f9-4286-96f9-0d271d177a1a)
 * <p align="center";color="green">👋 Hi there!</p>
 ** <p align="center">⚡ Electrician by trade</p> **
 <p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
