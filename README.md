@@ -1,4 +1,4 @@
-<div style="text-align: center;">👋 Hi there!
+<div align="center">👋 Hi there!
 ⚡ Electrician by trade
 🎓 Self-taught programmer | 💻 Curious about how the web works
 💻 HTML & CSS enthusiast
