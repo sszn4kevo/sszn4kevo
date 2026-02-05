@@ -1,8 +1,10 @@
 👋 Hi there!
-🎓 Self-taught programmer 
+⚡ Electrician by trade 
+🎓 Self-taught programmer | 💻 Curious about how the web works 
 💻 HTML & CSS enthusiast 
 Currently 🌱 Learning JavaScript
-⚡ Electrician by trade | 💻 Curious about how the web works | 🌱 Always learning and coding
+🌱 Always learning and coding
+
 
 <!--
 **sszn4kevo/sszn4kevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
