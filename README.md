@@ -1,29 +1,46 @@
-<div>
-  <p align="center";color="green">👋 Hi there!</p>
-<p align="center">⚡ Electrician by trade</p>
-<!-- <img width="300" height="533" alt="Image" src="https://github.com/user-attachments/assets/c938ba26-57a1-4d95-9e16-2d89adc81a3d" /> -->
-<p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
-<p align="center">Currently 🌱 Learning JavaScript</p>
+<div align="center">
+
+# 💫 About Me:
+👋 Hi there, Welcome 🤠  
+🎓 Self-taught programmer | 💻 HTML & CSS enthusiast  
+🌱 currently learning JavaScript  
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nderitu_1.1.1.1/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinnderitungatia@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=neon-kev&theme=omni&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=neon-kev&theme=omni&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-kev&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neon-kev&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=neon-kev&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=neon-kev&icon=5&color=13)
+
 </div>
-👋 Hi there!
-Electrician by trade
-🎓 Self-taught programmer | 💻 HTML & CSS enthusiast
-Currently 🌱 Learning JavaScript
-
-
-
-<p align="center">
-  <!-- Skills / Tech Badges -->
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css" />
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-</p>
-
-
-
-  <p align="center">SOCIALS</p>
-<p align="center">
-
-  <img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=instagran" /> 
-  <!-- Banner GIF -->
-  <!-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Badge" width="150"/> -->
-</p>
