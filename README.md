@@ -1,5 +1,7 @@
 <div align="center">
-  #💫 About Me:
+
+
+# 💫 About Me:
 👋 Hi there, Welcome 🤠<br>🎓 Self-taught programmer | 💻 HTML & CSS enthusiast<br>🌱 currently learning JavaScript 🤓
 
 
@@ -16,7 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neon-kev&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
@@ -25,9 +27,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=neon-kev&icon=7&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## (not working)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/neon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neon-kev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/neon-kev) 
-  </div>
+
+</div>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
